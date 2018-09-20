@@ -1,0 +1,10 @@
+C:\Users\rhcks\source\repos\Random_Choose_Program\Random_Choose_Program\bin\Debug\Random_Choose_Program.exe.config
+C:\Users\rhcks\source\repos\Random_Choose_Program\Random_Choose_Program\bin\Debug\Random_Choose_Program.exe
+C:\Users\rhcks\source\repos\Random_Choose_Program\Random_Choose_Program\bin\Debug\Random_Choose_Program.pdb
+C:\Users\rhcks\source\repos\Random_Choose_Program\Random_Choose_Program\obj\Debug\Random_Choose_Program.csprojAssemblyReference.cache
+C:\Users\rhcks\source\repos\Random_Choose_Program\Random_Choose_Program\obj\Debug\Random_Choose_Program.Form1.resources
+C:\Users\rhcks\source\repos\Random_Choose_Program\Random_Choose_Program\obj\Debug\Random_Choose_Program.Properties.Resources.resources
+C:\Users\rhcks\source\repos\Random_Choose_Program\Random_Choose_Program\obj\Debug\Random_Choose_Program.csproj.GenerateResource.cache
+C:\Users\rhcks\source\repos\Random_Choose_Program\Random_Choose_Program\obj\Debug\Random_Choose_Program.csproj.CoreCompileInputs.cache
+C:\Users\rhcks\source\repos\Random_Choose_Program\Random_Choose_Program\obj\Debug\Random_Choose_Program.exe
+C:\Users\rhcks\source\repos\Random_Choose_Program\Random_Choose_Program\obj\Debug\Random_Choose_Program.pdb
